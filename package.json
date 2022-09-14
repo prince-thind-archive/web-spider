@@ -1,0 +1,26 @@
+{
+  "name": "web-spider",
+  "description": "simple utility to crawl pages and download content from them",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "mkdirp": "^1.0.4",
+    "slug": "^8.0.0",
+    "superagent": "^8.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prince-thind/web-spider.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prince-thind/web-spider/issues"
+  },
+  "homepage": "https://github.com/prince-thind/web-spider#readme"
+}
